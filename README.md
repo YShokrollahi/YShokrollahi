@@ -8,7 +8,9 @@
 
 💞️ I’m looking to collaborate on projects that leverage AI for healthcare innovation, particularly those focused on cancer research and treatment optimization.
 
-📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yshokrollahi/) or check out my publications and contributions to the field on [Google Scholar](https://scholar.google.com/citations?hl=en&user=fgJxR38AAAAJ&view_op=list_works&sortby=pubdate).
+📫 How to reach me:
+- ![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/yshokrollahi/)
+- ![Google Scholar](https://img.icons8.com/color/48/000000/google-scholar--v1.png) [Google Scholar](https://scholar.google.com/citations?hl=en&user=fgJxR38AAAAJ&view_op=list_works&sortby=pubdate)
 
 😄 Pronouns: He/Him
 
