@@ -1,8 +1,8 @@
-👋 Hi, I’m Yasin Shokrollahi
+👋 Hi, I’m Yasin
 
-👨‍🔬 I'm a Data Scientist at MD Anderson Cancer Center, specializing in deep learning, image processing, and the application of large language models in healthcare.
+👨‍🔬 Data Scientist at MD Anderson Cancer Center, specializing in deep learning, image processing, and the application of large language models in healthcare.
 
-👀 I’m interested in harnessing the power of AI to make significant advances in medical research and patient care.
+👀 interested in harnessing the power of AI to make significant advances in medical research and patient care.
 
 🌱 I’m currently diving deeper into the intricacies of machine learning models and their applications in diagnosing and treating various health conditions.
 
